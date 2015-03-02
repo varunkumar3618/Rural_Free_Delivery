@@ -4,6 +4,8 @@ import sys
 import re
 import csv
 
+Towns = []
+
 def writeCSV(Obj, s, fieldnames):
 	f_obj = open(s,"wb")
 	writer = csv.DictWriter(f_obj, delimiter=',',fieldnames=fieldnames);
@@ -45,17 +47,13 @@ def convert_state(state):
 	plaintext = plaintext.split("\n")
 
 	#split line into town and date
-	Towns = []
 	for line in plaintext:
 		m = re.search("\d", line)
 		if m:
 			ind = m.start()
-			Towns.append({"Name" : line[0:ind], "Date" : line[ind:]})
+			Towns.append({"Name" : line[0:ind], "Date" : line[ind:], "State" : state})
 		else:
 			print "Not found " + line
-
-	#write out csv file
-	writeCSV(Towns, "Files/CSV/" + state.lower() + ".csv", ["Name", "Date"])
 	print "Finished state"
 
 print __name__
@@ -64,3 +62,5 @@ if __name__ == "__main__":
 	states = get_states()
 	for state in states:
 		convert_state(state)
+	#write out csv file
+	writeCSV(Towns, "Files/CSV/combined.csv", ["Name", "State", "Date"])
