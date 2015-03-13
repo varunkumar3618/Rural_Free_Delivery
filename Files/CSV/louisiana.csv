@@ -1,12 +1,12 @@
-Name,Date
-Alexandria,10/01/1901
-Baton Rouge,05/16/1904
-Bienville,07/15/1904
-Bunkie,09/01/1903
-Campti,08/01/1903
-Jeanerette,10/01/1901
-Monroe,08/01/1903
-Natchitoches,08/01/1903
-New Orleans,10/01/1901
-Plaquemine,08/15/1904
-Thibodaux,11/01/1896
+Name,Date,State
+Alexandria,10/01/1901,Louisiana
+Baton Rouge,05/16/1904,Louisiana
+Bienville,07/15/1904,Louisiana
+Bunkie,09/01/1903,Louisiana
+Campti,08/01/1903,Louisiana
+Jeanerette,10/01/1901,Louisiana
+Monroe,08/01/1903,Louisiana
+Natchitoches,08/01/1903,Louisiana
+New Orleans,10/01/1901,Louisiana
+Plaquemine,08/15/1904,Louisiana
+Thibodaux,11/01/1896,Louisiana

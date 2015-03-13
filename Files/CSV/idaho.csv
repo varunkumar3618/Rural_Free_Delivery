@@ -1,18 +1,18 @@
-Name,Date
-Boise,05/14/1900
-Caldwell,11/01/1900
-Coeur D’ Alene,11/01/1904
-Emmett,12/15/1903
-Genesee,12/02/1901
-Idaho Falls,07/01/1903
-Kendrick,09/15/1903
-Meridian,07/01/1903
-Middleton,12/15/1903
-Mohler,07/01/1903
-Moscow,04/14/1900
-New Plymouth,06/01/1904
-Nezperce,10/01/1901
-Payette,01/15/1901
-Rathdrum,12/15/1903
-Troy,07/01/1903
-Weiser,01/15/1901
+Name,Date,State
+Boise,05/14/1900,Idaho
+Caldwell,11/01/1900,Idaho
+Coeur D’ Alene,11/01/1904,Idaho
+Emmett,12/15/1903,Idaho
+Genesee,12/02/1901,Idaho
+Idaho Falls,07/01/1903,Idaho
+Kendrick,09/15/1903,Idaho
+Meridian,07/01/1903,Idaho
+Middleton,12/15/1903,Idaho
+Mohler,07/01/1903,Idaho
+Moscow,04/14/1900,Idaho
+New Plymouth,06/01/1904,Idaho
+Nezperce,10/01/1901,Idaho
+Payette,01/15/1901,Idaho
+Rathdrum,12/15/1903,Idaho
+Troy,07/01/1903,Idaho
+Weiser,01/15/1901,Idaho

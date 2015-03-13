@@ -1,76 +1,76 @@
-Name,Date
-Albany,01/15/1901
-Alicel,02/02/1903
-Amity,02/02/1903
-Aumsville,09/01/1902
-Aurora,09/15/1903
-Beaverton,04/01/1904
-Brownsville,10/01/1903
-Carlton,09/01/1904
-Centralpoint,10/01/1903
-Clackamas,09/01/1903
-Cleone,09/01/1902
-Cornelius,09/15/1904
-Corvallis,03/02/1903
-Crabtree,09/01/1903
-Dallas,09/01/1903
-Dayton,06/11/1900
-Elgin,06/01/1904
-Eugene,09/02/1901
-Forestgrove,02/02/1903
-Freewater,06/01/1901
-Gaston,02/02/1903
-Gervais,02/02/1903
-Greenville,05/16/1904
-Gresham,02/15/1901
-Haines,06/01/1904
-Halsey,02/15/1901
-Harrisburg,10/01/1902
-Hillsboro,09/01/1903
-Hillsdale,09/15/1903
-Hood River,07/05/1899
-Hubbard,08/01/1902
-Independence,07/01/1903
-Irving,02/02/1903
-Jefferson,04/01/1901
-Junction City,12/01/1902
-La Grande,07/05/1899
-Latourell Falls,09/01/1902
-Laurel,09/01/1904
-Lebanon,03/02/1903
-Lents,03/02/1903
-Macleay,06/01/1901
-Mc Minnville,07/01/1903
-Medford,08/01/1903
-Milwaukee,01/01/1903
-Monmouth,09/01/1902
-Mount Angel,11/02/1903
-Newberg,07/02/1900
-North Yamhill,02/02/1903
-Ontario,10/01/1902
-Oregon City,08/01/1903
-Orient,04/01/1904
-Oswego,02/02/1903
-Parkers,07/01/1903
-Portland,05/16/1904
-Rickreall,04/15/1904
-Roseburg,07/01/1903
-Salem,04/01/1901
-Scio,09/15/1904
-Shaw,07/01/1902
-Shedds,06/11/1900
-Sheridan,02/01/1904
-Sherwood,09/01/1903
-Silverton,09/02/1901
-Springfield,02/02/1903
-Stayton,08/01/1903
-Sublimity,09/15/1904
-Summerville,02/02/1903
-Suver,08/15/1900
-Tangent,09/01/1902
-The Dalles,10/01/1904
-Thomas,04/01/1904
-Troutdale,09/01/1902
-Turner,10/16/1897
-Warren,09/01/1904
-Woodburn,09/01/1902
+Name,Date,State
+Albany,01/15/1901,Oregon
+Alicel,02/02/1903,Oregon
+Amity,02/02/1903,Oregon
+Aumsville,09/01/1902,Oregon
+Aurora,09/15/1903,Oregon
+Beaverton,04/01/1904,Oregon
+Brownsville,10/01/1903,Oregon
+Carlton,09/01/1904,Oregon
+Centralpoint,10/01/1903,Oregon
+Clackamas,09/01/1903,Oregon
+Cleone,09/01/1902,Oregon
+Cornelius,09/15/1904,Oregon
+Corvallis,03/02/1903,Oregon
+Crabtree,09/01/1903,Oregon
+Dallas,09/01/1903,Oregon
+Dayton,06/11/1900,Oregon
+Elgin,06/01/1904,Oregon
+Eugene,09/02/1901,Oregon
+Forestgrove,02/02/1903,Oregon
+Freewater,06/01/1901,Oregon
+Gaston,02/02/1903,Oregon
+Gervais,02/02/1903,Oregon
+Greenville,05/16/1904,Oregon
+Gresham,02/15/1901,Oregon
+Haines,06/01/1904,Oregon
+Halsey,02/15/1901,Oregon
+Harrisburg,10/01/1902,Oregon
+Hillsboro,09/01/1903,Oregon
+Hillsdale,09/15/1903,Oregon
+Hood River,07/05/1899,Oregon
+Hubbard,08/01/1902,Oregon
+Independence,07/01/1903,Oregon
+Irving,02/02/1903,Oregon
+Jefferson,04/01/1901,Oregon
+Junction City,12/01/1902,Oregon
+La Grande,07/05/1899,Oregon
+Latourell Falls,09/01/1902,Oregon
+Laurel,09/01/1904,Oregon
+Lebanon,03/02/1903,Oregon
+Lents,03/02/1903,Oregon
+Macleay,06/01/1901,Oregon
+Mc Minnville,07/01/1903,Oregon
+Medford,08/01/1903,Oregon
+Milwaukee,01/01/1903,Oregon
+Monmouth,09/01/1902,Oregon
+Mount Angel,11/02/1903,Oregon
+Newberg,07/02/1900,Oregon
+North Yamhill,02/02/1903,Oregon
+Ontario,10/01/1902,Oregon
+Oregon City,08/01/1903,Oregon
+Orient,04/01/1904,Oregon
+Oswego,02/02/1903,Oregon
+Parkers,07/01/1903,Oregon
+Portland,05/16/1904,Oregon
+Rickreall,04/15/1904,Oregon
+Roseburg,07/01/1903,Oregon
+Salem,04/01/1901,Oregon
+Scio,09/15/1904,Oregon
+Shaw,07/01/1902,Oregon
+Shedds,06/11/1900,Oregon
+Sheridan,02/01/1904,Oregon
+Sherwood,09/01/1903,Oregon
+Silverton,09/02/1901,Oregon
+Springfield,02/02/1903,Oregon
+Stayton,08/01/1903,Oregon
+Sublimity,09/15/1904,Oregon
+Summerville,02/02/1903,Oregon
+Suver,08/15/1900,Oregon
+Tangent,09/01/1902,Oregon
+The Dalles,10/01/1904,Oregon
+Thomas,04/01/1904,Oregon
+Troutdale,09/01/1902,Oregon
+Turner,10/16/1897,Oregon
+Warren,09/01/1904,Oregon
+Woodburn,09/01/1902,Oregon

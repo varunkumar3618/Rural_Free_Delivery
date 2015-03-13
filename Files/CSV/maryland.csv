@@ -1,148 +1,148 @@
-Name,Date
-Aberdeen,04/01/1903
-Annapolis,10/01/1903
-Araby,11/15/1901
-Baldwin,12/01/1904
-Baltimore,02/20/1899
-Barclay,04/01/1904
-Bethesda,08/01/1904
-Bethlehem,10/01/1903
-Bigpool,03/16/1903
-Bishop,06/01/1904
-Boonsboro,03/16/1903
-Boring ,05/15/1901
-Boyds,01/15/1904
-Cambridge,12/02/1901
-Centerville,10/01/1901
-Chester,07/15/1904
-Chestertown,05/01/1900
-Clearspring,03/16/1903
-Cockeysville,08/01/1902
-Colora,03/01/1902
-Conowingo,10/01/1903
-Cordova,03/02/1903
-Crisfield,06/01/1901
-Cumberland,10/01/1903
-Deer Park,02/02/1903
-Denton,03/02/1903
-East New Market,08/01/1902
-Easton,02/15/1899
-Eden,03/02/1903
-Elk Ridge,08/01/1901
-Ellicott City,01/01/1898
-Emmittsburg,11/15/1901
-Fallston,10/01/1901
-Federalsburg,08/01/1902
-Finksburg,07/01/1904
-Foresthill,12/01/1900
-Frederick,11/15/1901
-Freeland,05/01/1902
-Fruitland,04/01/1904
-Gapland,11/15/1901
-Germantown,09/15/1904
-Girdletree,03/01/1902
-Glenarm,12/01/1904
-Glencoe,07/01/1902
-Glyndon,07/01/1901
-Goldsboro,04/01/1904
-Grange,05/01/1899
-Granite,05/01/1903
-Greensboro,12/01/1903
-Hagerstown,03/16/1903
-Halethorp,04/01/1901
-Hampstead,12/15/1899
-Hancock,03/16/1903
-Hanover,11/15/1904
-Havre de Grace,02/01/1899
-Hebron,12/02/1901
-Henderson,06/01/1904
-Henryton,10/01/1901
-Hobbs,12/01/1903
-Hurlock,07/01/1902
-Hyattsville,03/01/1902
-Hydes,11/01/1902
-Ijamsville,11/15/1901
-Keedysville,03/16/1903
-Kennedyville,10/15/1903
-Knoxville,11/15/1901
-Ladiesburg,11/15/1901
-Lantz,11/15/1901
-Laurel,05/01/1899
-Le Gore,11/15/1901
-Lineboro,08/01/1900
-Mardela Springs,12/01/1902
-Marion Station,07/01/1903
-Marydell,04/01/1902
-Middleburg,12/15/1899
-Millington,05/01/1900
-Monkton,03/01/1902
-Monrovia,11/15/1901
-Morgan,12/15/1899
-Mount Airy,12/15/1899
-Myersville,11/15/1901
-New Midway,01/11/1904
-New Windsor,12/15/1899
-Newhope,07/01/1903
-Northeast,04/01/1903
-Oakland,07/01/1904
-Owings Mills,02/01/1902
-Parkton,12/02/1901
-Parsonsburg,03/02/1903
-Patapsco,01/01/1902
-Perryman,08/01/1901
-Philopolis,07/01/1902
-Phoenix,12/01/1904
-Pittsville,03/02/1903
-Pocomoke City,12/02/1901
-Poolesville,01/01/1904
-Port Deposit,03/01/1902
-Preston,10/01/1903
-Princess Anne,05/01/1901
-Pylesville,10/01/1901
-Queen Anne,09/15/1903
-Queenstown,11/02/1903
-Reisterstown,07/01/1901
-Rhodesdale,08/01/1902
-Ridgely,05/16/1904
-Rising Sun,11/01/1901
-Rock Hall,06/04/1900
-Rocks,12/15/1900
-Rocky Ridge,11/15/1901
-Rohrersville,03/16/1903
-Rossville,09/18/1899
-Salisbury,04/03/1899
-Sellman,09/15/1904
-Sharon,10/01/1901
-Sharpsburg,03/16/1903
-Silver Spring,05/16/1904
-Smithburg,11/15/1901
-Snowhill,02/01/1902
-Stevensville,02/01/1904
-Street,04/01/1901
-Sudlersville,04/01/1904
-Swanton,11/01/1901
-Sykesville,12/15/1899
-Taneytown,12/15/1899
-Thurmont,11/15/1901
-Trappe,03/02/1903
-Tuscarora,11/15/1901
-Union Bridge,12/15/1899
-Upper Marlboro,09/01/1902
-Upperco,05/15/1901
-Vienna,08/01/1902
-Walkersville,11/15/1901
-Westminster,10/15/1896
-Westover,09/15/1903
-Weverton,03/16/1903
-Whaleyville,10/01/1901
-Whiteford,05/01/1900
-Whitehall,03/01/1902
-Whitehaven,10/01/1903
-Willards,07/01/1903
-Williamsburg,08/01/1902
-Williamsport,03/16/1903
-Woodbine,02/12/1900
-Woodensburg,08/01/1901
-Woodsboro,11/15/1901
-Worton,12/02/1901
-York Road,12/15/1899
+Name,Date,State
+Aberdeen,04/01/1903,Maryland
+Annapolis,10/01/1903,Maryland
+Araby,11/15/1901,Maryland
+Baldwin,12/01/1904,Maryland
+Baltimore,02/20/1899,Maryland
+Barclay,04/01/1904,Maryland
+Bethesda,08/01/1904,Maryland
+Bethlehem,10/01/1903,Maryland
+Bigpool,03/16/1903,Maryland
+Bishop,06/01/1904,Maryland
+Boonsboro,03/16/1903,Maryland
+Boring ,05/15/1901,Maryland
+Boyds,01/15/1904,Maryland
+Cambridge,12/02/1901,Maryland
+Centerville,10/01/1901,Maryland
+Chester,07/15/1904,Maryland
+Chestertown,05/01/1900,Maryland
+Clearspring,03/16/1903,Maryland
+Cockeysville,08/01/1902,Maryland
+Colora,03/01/1902,Maryland
+Conowingo,10/01/1903,Maryland
+Cordova,03/02/1903,Maryland
+Crisfield,06/01/1901,Maryland
+Cumberland,10/01/1903,Maryland
+Deer Park,02/02/1903,Maryland
+Denton,03/02/1903,Maryland
+East New Market,08/01/1902,Maryland
+Easton,02/15/1899,Maryland
+Eden,03/02/1903,Maryland
+Elk Ridge,08/01/1901,Maryland
+Ellicott City,01/01/1898,Maryland
+Emmittsburg,11/15/1901,Maryland
+Fallston,10/01/1901,Maryland
+Federalsburg,08/01/1902,Maryland
+Finksburg,07/01/1904,Maryland
+Foresthill,12/01/1900,Maryland
+Frederick,11/15/1901,Maryland
+Freeland,05/01/1902,Maryland
+Fruitland,04/01/1904,Maryland
+Gapland,11/15/1901,Maryland
+Germantown,09/15/1904,Maryland
+Girdletree,03/01/1902,Maryland
+Glenarm,12/01/1904,Maryland
+Glencoe,07/01/1902,Maryland
+Glyndon,07/01/1901,Maryland
+Goldsboro,04/01/1904,Maryland
+Grange,05/01/1899,Maryland
+Granite,05/01/1903,Maryland
+Greensboro,12/01/1903,Maryland
+Hagerstown,03/16/1903,Maryland
+Halethorp,04/01/1901,Maryland
+Hampstead,12/15/1899,Maryland
+Hancock,03/16/1903,Maryland
+Hanover,11/15/1904,Maryland
+Havre de Grace,02/01/1899,Maryland
+Hebron,12/02/1901,Maryland
+Henderson,06/01/1904,Maryland
+Henryton,10/01/1901,Maryland
+Hobbs,12/01/1903,Maryland
+Hurlock,07/01/1902,Maryland
+Hyattsville,03/01/1902,Maryland
+Hydes,11/01/1902,Maryland
+Ijamsville,11/15/1901,Maryland
+Keedysville,03/16/1903,Maryland
+Kennedyville,10/15/1903,Maryland
+Knoxville,11/15/1901,Maryland
+Ladiesburg,11/15/1901,Maryland
+Lantz,11/15/1901,Maryland
+Laurel,05/01/1899,Maryland
+Le Gore,11/15/1901,Maryland
+Lineboro,08/01/1900,Maryland
+Mardela Springs,12/01/1902,Maryland
+Marion Station,07/01/1903,Maryland
+Marydell,04/01/1902,Maryland
+Middleburg,12/15/1899,Maryland
+Millington,05/01/1900,Maryland
+Monkton,03/01/1902,Maryland
+Monrovia,11/15/1901,Maryland
+Morgan,12/15/1899,Maryland
+Mount Airy,12/15/1899,Maryland
+Myersville,11/15/1901,Maryland
+New Midway,01/11/1904,Maryland
+New Windsor,12/15/1899,Maryland
+Newhope,07/01/1903,Maryland
+Northeast,04/01/1903,Maryland
+Oakland,07/01/1904,Maryland
+Owings Mills,02/01/1902,Maryland
+Parkton,12/02/1901,Maryland
+Parsonsburg,03/02/1903,Maryland
+Patapsco,01/01/1902,Maryland
+Perryman,08/01/1901,Maryland
+Philopolis,07/01/1902,Maryland
+Phoenix,12/01/1904,Maryland
+Pittsville,03/02/1903,Maryland
+Pocomoke City,12/02/1901,Maryland
+Poolesville,01/01/1904,Maryland
+Port Deposit,03/01/1902,Maryland
+Preston,10/01/1903,Maryland
+Princess Anne,05/01/1901,Maryland
+Pylesville,10/01/1901,Maryland
+Queen Anne,09/15/1903,Maryland
+Queenstown,11/02/1903,Maryland
+Reisterstown,07/01/1901,Maryland
+Rhodesdale,08/01/1902,Maryland
+Ridgely,05/16/1904,Maryland
+Rising Sun,11/01/1901,Maryland
+Rock Hall,06/04/1900,Maryland
+Rocks,12/15/1900,Maryland
+Rocky Ridge,11/15/1901,Maryland
+Rohrersville,03/16/1903,Maryland
+Rossville,09/18/1899,Maryland
+Salisbury,04/03/1899,Maryland
+Sellman,09/15/1904,Maryland
+Sharon,10/01/1901,Maryland
+Sharpsburg,03/16/1903,Maryland
+Silver Spring,05/16/1904,Maryland
+Smithburg,11/15/1901,Maryland
+Snowhill,02/01/1902,Maryland
+Stevensville,02/01/1904,Maryland
+Street,04/01/1901,Maryland
+Sudlersville,04/01/1904,Maryland
+Swanton,11/01/1901,Maryland
+Sykesville,12/15/1899,Maryland
+Taneytown,12/15/1899,Maryland
+Thurmont,11/15/1901,Maryland
+Trappe,03/02/1903,Maryland
+Tuscarora,11/15/1901,Maryland
+Union Bridge,12/15/1899,Maryland
+Upper Marlboro,09/01/1902,Maryland
+Upperco,05/15/1901,Maryland
+Vienna,08/01/1902,Maryland
+Walkersville,11/15/1901,Maryland
+Westminster,10/15/1896,Maryland
+Westover,09/15/1903,Maryland
+Weverton,03/16/1903,Maryland
+Whaleyville,10/01/1901,Maryland
+Whiteford,05/01/1900,Maryland
+Whitehall,03/01/1902,Maryland
+Whitehaven,10/01/1903,Maryland
+Willards,07/01/1903,Maryland
+Williamsburg,08/01/1902,Maryland
+Williamsport,03/16/1903,Maryland
+Woodbine,02/12/1900,Maryland
+Woodensburg,08/01/1901,Maryland
+Woodsboro,11/15/1901,Maryland
+Worton,12/02/1901,Maryland
+York Road,12/15/1899,Maryland

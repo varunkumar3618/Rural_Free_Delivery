@@ -1,122 +1,122 @@
-Name,Date
-Alburg,09/03/1900
-Arlington,02/01/1902
-Barnet,09/15/1903
-Barre,09/15/1903
-Barton,09/01/1903
-Barton Landing,11/01/1904
-Bellows Falls,12/02/1901
-Bennington,02/15/1902
-Benson,11/02/1903
-Bethel,07/01/1902
-Bradford,10/01/1903
-Brandon,11/01/1902
-Brattleboro,03/02/1898
-Bridport,08/01/1900
-Bristol,12/15/1900
-Brookfield,07/01/1903
-Burlington,07/20/1898
-Cambridge,07/01/1902
-Cavendish,09/15/1903
-Chelsea,05/01/1903
-Chester,09/01/1903
-Chester Depot,09/01/1903
-Clarendon,12/15/1904
-Craftsbury,11/01/1904
-Danby,11/02/1903
-Danville,06/01/1904
-Dorset,10/01/1902
-East Enosburg,11/16/1903
-East Fairfield,07/01/1902
-East Georgia,09/15/1903
-East Hardwick,08/01/1902
-East Highgate,10/01/1902
-East Montpelier,02/01/1904
-East Poultney,07/15/1904
-East Shoreham,10/01/1903
-East Wallingford,09/01/1903
-Enosburg Falls,12/15/1900
-Essex,07/01/1902
-Fairfax,10/01/1901
-Fairfield,09/01/1902
-Fairhaven,07/01/1901
-Felchville,10/01/1903
-Ferrisburg,05/01/1902
-Franklin,09/02/1901
-Gaysville,11/15/1904
-Grand Isle,12/21/1896
-Graniteville,11/01/1904
-Greensboro,06/15/1904
-Greensborobend,10/01/1903
-Groton,01/15/1904
-Hardwick,07/01/1902
-Highgate Center,10/01/1902
-Hinesburg,02/01/1902
-Huntington,10/01/1903
-Hyde Park,09/15/1903
-Irasburg,06/01/1904
-Jeffersonville,07/01/1902
-Jericho,10/01/1901
-Johnson,02/05/1900
-Ludlow,07/01/1903
-Lyndonville,08/01/1903
-Manchester Depot,09/01/1903
-Middlebury,10/15/1900
-Middlesex,11/01/1902
-Middletown Springs,10/01/1902
-Moretown,07/01/1903
-Morrisville,02/15/1902
-New Haven,09/02/1901
-Newport,04/01/1904
-Newport Center,07/01/1903
-North Bennington,11/01/1902
-North Clarendon,05/01/1902
-North Craftsbury,02/02/1903
-North Ferrisburg,07/01/1902
-North Hero,02/01/1902
-North Troy,09/01/1903
-Orwell,10/01/1903
-Passumpsic,09/15/1903
-Pawlet,11/02/1903
-Pittsford,05/01/1902
-Plainfield,10/01/1904
-Poultney,05/01/1902
-Pownal,11/01/1902
-Proctorsville,10/01/1903
-Putney,07/15/1903
-Randolph,09/01/1902
-Randolph Center,06/01/1904
-Richford,09/02/1901
-Richmond,10/01/1901
-Rutland,11/01/1899
-Saint Albans,03/15/1900
-Saint Johnsbury,03/01/1902
-Sheldon,08/01/1902
-Shoreham,09/01/1902
-South Hero ,10/01/1901
-South Londonberry,11/15/1904
-South Royalton,10/01/1903
-South Shaftsbury,11/01/1902
-South Wallingford,07/01/1904
-Springfield,07/01/1903
-Starksboro,10/01/1901
-Stowe,02/01/1902
-Swanton,06/18/1900
-Tunbridge,11/01/1900
-Underhill,12/01/1902
-Vergennes,09/15/1899
-Waitsfield,07/01/1903
-Wallingford,03/20/1899
-Waterbury,03/01/1902
-West Concord,09/15/1903
-West Glover,09/15/1903
-West Rutland,09/18/1899
-West Salisbury,08/15/1900
-Westminster,07/01/1903
-Whiting,11/01/1902
-Williston,10/01/1903
-Wilmington,07/15/1903
-Windsor,09/15/1903
-Wolcott,10/01/1901
-Woodstock,07/01/1903
-Worcester,12/01/1903
+Name,Date,State
+Alburg,09/03/1900,Vermont
+Arlington,02/01/1902,Vermont
+Barnet,09/15/1903,Vermont
+Barre,09/15/1903,Vermont
+Barton,09/01/1903,Vermont
+Barton Landing,11/01/1904,Vermont
+Bellows Falls,12/02/1901,Vermont
+Bennington,02/15/1902,Vermont
+Benson,11/02/1903,Vermont
+Bethel,07/01/1902,Vermont
+Bradford,10/01/1903,Vermont
+Brandon,11/01/1902,Vermont
+Brattleboro,03/02/1898,Vermont
+Bridport,08/01/1900,Vermont
+Bristol,12/15/1900,Vermont
+Brookfield,07/01/1903,Vermont
+Burlington,07/20/1898,Vermont
+Cambridge,07/01/1902,Vermont
+Cavendish,09/15/1903,Vermont
+Chelsea,05/01/1903,Vermont
+Chester,09/01/1903,Vermont
+Chester Depot,09/01/1903,Vermont
+Clarendon,12/15/1904,Vermont
+Craftsbury,11/01/1904,Vermont
+Danby,11/02/1903,Vermont
+Danville,06/01/1904,Vermont
+Dorset,10/01/1902,Vermont
+East Enosburg,11/16/1903,Vermont
+East Fairfield,07/01/1902,Vermont
+East Georgia,09/15/1903,Vermont
+East Hardwick,08/01/1902,Vermont
+East Highgate,10/01/1902,Vermont
+East Montpelier,02/01/1904,Vermont
+East Poultney,07/15/1904,Vermont
+East Shoreham,10/01/1903,Vermont
+East Wallingford,09/01/1903,Vermont
+Enosburg Falls,12/15/1900,Vermont
+Essex,07/01/1902,Vermont
+Fairfax,10/01/1901,Vermont
+Fairfield,09/01/1902,Vermont
+Fairhaven,07/01/1901,Vermont
+Felchville,10/01/1903,Vermont
+Ferrisburg,05/01/1902,Vermont
+Franklin,09/02/1901,Vermont
+Gaysville,11/15/1904,Vermont
+Grand Isle,12/21/1896,Vermont
+Graniteville,11/01/1904,Vermont
+Greensboro,06/15/1904,Vermont
+Greensborobend,10/01/1903,Vermont
+Groton,01/15/1904,Vermont
+Hardwick,07/01/1902,Vermont
+Highgate Center,10/01/1902,Vermont
+Hinesburg,02/01/1902,Vermont
+Huntington,10/01/1903,Vermont
+Hyde Park,09/15/1903,Vermont
+Irasburg,06/01/1904,Vermont
+Jeffersonville,07/01/1902,Vermont
+Jericho,10/01/1901,Vermont
+Johnson,02/05/1900,Vermont
+Ludlow,07/01/1903,Vermont
+Lyndonville,08/01/1903,Vermont
+Manchester Depot,09/01/1903,Vermont
+Middlebury,10/15/1900,Vermont
+Middlesex,11/01/1902,Vermont
+Middletown Springs,10/01/1902,Vermont
+Moretown,07/01/1903,Vermont
+Morrisville,02/15/1902,Vermont
+New Haven,09/02/1901,Vermont
+Newport,04/01/1904,Vermont
+Newport Center,07/01/1903,Vermont
+North Bennington,11/01/1902,Vermont
+North Clarendon,05/01/1902,Vermont
+North Craftsbury,02/02/1903,Vermont
+North Ferrisburg,07/01/1902,Vermont
+North Hero,02/01/1902,Vermont
+North Troy,09/01/1903,Vermont
+Orwell,10/01/1903,Vermont
+Passumpsic,09/15/1903,Vermont
+Pawlet,11/02/1903,Vermont
+Pittsford,05/01/1902,Vermont
+Plainfield,10/01/1904,Vermont
+Poultney,05/01/1902,Vermont
+Pownal,11/01/1902,Vermont
+Proctorsville,10/01/1903,Vermont
+Putney,07/15/1903,Vermont
+Randolph,09/01/1902,Vermont
+Randolph Center,06/01/1904,Vermont
+Richford,09/02/1901,Vermont
+Richmond,10/01/1901,Vermont
+Rutland,11/01/1899,Vermont
+Saint Albans,03/15/1900,Vermont
+Saint Johnsbury,03/01/1902,Vermont
+Sheldon,08/01/1902,Vermont
+Shoreham,09/01/1902,Vermont
+South Hero ,10/01/1901,Vermont
+South Londonberry,11/15/1904,Vermont
+South Royalton,10/01/1903,Vermont
+South Shaftsbury,11/01/1902,Vermont
+South Wallingford,07/01/1904,Vermont
+Springfield,07/01/1903,Vermont
+Starksboro,10/01/1901,Vermont
+Stowe,02/01/1902,Vermont
+Swanton,06/18/1900,Vermont
+Tunbridge,11/01/1900,Vermont
+Underhill,12/01/1902,Vermont
+Vergennes,09/15/1899,Vermont
+Waitsfield,07/01/1903,Vermont
+Wallingford,03/20/1899,Vermont
+Waterbury,03/01/1902,Vermont
+West Concord,09/15/1903,Vermont
+West Glover,09/15/1903,Vermont
+West Rutland,09/18/1899,Vermont
+West Salisbury,08/15/1900,Vermont
+Westminster,07/01/1903,Vermont
+Whiting,11/01/1902,Vermont
+Williston,10/01/1903,Vermont
+Wilmington,07/15/1903,Vermont
+Windsor,09/15/1903,Vermont
+Wolcott,10/01/1901,Vermont
+Woodstock,07/01/1903,Vermont
+Worcester,12/01/1903,Vermont

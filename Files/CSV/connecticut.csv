@@ -1,127 +1,127 @@
-Name,Date
-Andover,07/01/1902
-Avon,02/02/1903
-Baltic,09/01/1903
-Berlin,06/02/1902
-Bethel,03/01/1900
-Bethlehem,09/15/1903
-Bloomfield,09/01/1900
-Branford,06/01/1898
-Bridgeport,05/14/1900
-Bridgewater,05/02/1904
-Bristol,12/15/1900
-Brookfield,02/01/1901
-Brookfield Center,02/01/1901
-Cheshire,09/02/1901
-Clinton,09/02/1901
-Clintonville,01/01/1902
-Colchester,09/02/1901
-Collinsville,09/01/1903
-Columbia,08/01/1902
-Coscob,04/15/1901
-Cromwell,04/02/1900
-Danbury,01/15/1901
-Darien,04/15/1901
-Deepriver,11/01/1904
-Eagleville,12/15/1900
-East Granby,09/15/1903
-East Haddam,11/15/1904
-East Hampton,07/01/1902
-East Haven,08/01/1902
-Ellington,08/01/1902
-Fairfield,12/15/1900
-Falls Village,05/01/1902
-Farmington,08/01/1902
-Forestville,07/01/1901
-Gales Ferry,08/01/1903
-Gaylordsville,02/01/1902
-Georgetown,02/01/1901
-Glastonbury,10/01/1904
-Granby,02/02/1903
-Greenwich,02/01/1901
-Groton,11/01/1902
-Guilford,06/01/1898
-Hamden,10/01/1902
-Hampton,11/01/1904
-Hawleyville,02/01/1901
-Hazardville,09/15/1903
-Higganum,09/02/1901
-Hotchkissville,03/01/1902
-Kensington,10/01/1901
-Kent ,02/02/1903
-Lebanon,07/01/1902
-Leonard Bridge,09/02/1901
-Lyme,03/01/1902
-Madison,07/05/1899
-Mansfield Center,12/15/1900
-Middletown,08/15/1900
-Milford,06/01/1898
-Mystic,11/01/1902
-Naugatuck,09/01/1900
-New Britain,01/01/1902
-New Canaan,07/05/1899
-New Milford,09/01/1902
-New Preston,04/01/1902
-Newtown,12/15/1900
-Norfolk,05/16/1899
-North Franklin,07/01/1902
-North Haven,12/15/1900
-Northford,01/01/1902
-Norwalk,12/04/1899
-Norwich,04/01/1901
-Norwichtown,09/02/1901
-Oakdale,02/01/1904
-Orange,07/01/1902
-Plainville,05/01/1902
-Plantsville,07/01/1902
-Portland,08/01/1901
-Putnam,06/01/1901
-Ridgefield,02/01/1901
-Riverside,03/15/1901
-Rockville,05/01/1901
-Roxbury,07/15/1904
-Sandy Hook,02/01/1901
-Seymour,07/01/1902
-Shelton,12/15/1900
-Simsbury,09/01/1903
-Somers,11/01/1904
-South Coventry,01/01/1902
-South Glastonbury,04/15/1904
-South Kent,02/02/1903
-South Manchester,08/01/1902
-South Norwalk,01/15/1901
-Southbury,10/01/1902
-Southington,07/01/1901
-Southport,02/01/1901
-Stamford,03/15/1901
-Stepney Depot,12/15/1901
-Stonington,08/01/1903
-Stratford,12/15/1901
-Suffield,12/15/1900
-Terryville,02/01/1902
-Thomaston,02/02/1903
-Thompsonville,10/15/1904
-Torrington,04/01/1902
-Turnerville,04/01/1902
-Uncasville,08/01/1903
-Unionville,10/01/1901
-Wallingford,08/15/1900
-Warehouse Point,05/02/1904
-Washington,02/02/1903
-Washington Depot,09/15/1903
-Waterbury,12/15/1900
-Waterford,11/01/1904
-Watertown,09/15/1903
-West Cheshire,09/02/1901
-West Cornwall,02/02/1903
-West Hartford,04/16/1900
-West Haven,07/01/1902
-Westport,12/15/1900
-Westville,04/16/1900
-Wethersfield,04/15/1904
-Willimantic,04/16/1900
-Wilton,04/15/1901
-Windsor,01/01/1902
-Winsted,04/01/1902
-Woodbury,03/01/1902
-Yantic,07/01/1902
+Name,Date,State
+Andover,07/01/1902,Connecticut
+Avon,02/02/1903,Connecticut
+Baltic,09/01/1903,Connecticut
+Berlin,06/02/1902,Connecticut
+Bethel,03/01/1900,Connecticut
+Bethlehem,09/15/1903,Connecticut
+Bloomfield,09/01/1900,Connecticut
+Branford,06/01/1898,Connecticut
+Bridgeport,05/14/1900,Connecticut
+Bridgewater,05/02/1904,Connecticut
+Bristol,12/15/1900,Connecticut
+Brookfield,02/01/1901,Connecticut
+Brookfield Center,02/01/1901,Connecticut
+Cheshire,09/02/1901,Connecticut
+Clinton,09/02/1901,Connecticut
+Clintonville,01/01/1902,Connecticut
+Colchester,09/02/1901,Connecticut
+Collinsville,09/01/1903,Connecticut
+Columbia,08/01/1902,Connecticut
+Coscob,04/15/1901,Connecticut
+Cromwell,04/02/1900,Connecticut
+Danbury,01/15/1901,Connecticut
+Darien,04/15/1901,Connecticut
+Deepriver,11/01/1904,Connecticut
+Eagleville,12/15/1900,Connecticut
+East Granby,09/15/1903,Connecticut
+East Haddam,11/15/1904,Connecticut
+East Hampton,07/01/1902,Connecticut
+East Haven,08/01/1902,Connecticut
+Ellington,08/01/1902,Connecticut
+Fairfield,12/15/1900,Connecticut
+Falls Village,05/01/1902,Connecticut
+Farmington,08/01/1902,Connecticut
+Forestville,07/01/1901,Connecticut
+Gales Ferry,08/01/1903,Connecticut
+Gaylordsville,02/01/1902,Connecticut
+Georgetown,02/01/1901,Connecticut
+Glastonbury,10/01/1904,Connecticut
+Granby,02/02/1903,Connecticut
+Greenwich,02/01/1901,Connecticut
+Groton,11/01/1902,Connecticut
+Guilford,06/01/1898,Connecticut
+Hamden,10/01/1902,Connecticut
+Hampton,11/01/1904,Connecticut
+Hawleyville,02/01/1901,Connecticut
+Hazardville,09/15/1903,Connecticut
+Higganum,09/02/1901,Connecticut
+Hotchkissville,03/01/1902,Connecticut
+Kensington,10/01/1901,Connecticut
+Kent ,02/02/1903,Connecticut
+Lebanon,07/01/1902,Connecticut
+Leonard Bridge,09/02/1901,Connecticut
+Lyme,03/01/1902,Connecticut
+Madison,07/05/1899,Connecticut
+Mansfield Center,12/15/1900,Connecticut
+Middletown,08/15/1900,Connecticut
+Milford,06/01/1898,Connecticut
+Mystic,11/01/1902,Connecticut
+Naugatuck,09/01/1900,Connecticut
+New Britain,01/01/1902,Connecticut
+New Canaan,07/05/1899,Connecticut
+New Milford,09/01/1902,Connecticut
+New Preston,04/01/1902,Connecticut
+Newtown,12/15/1900,Connecticut
+Norfolk,05/16/1899,Connecticut
+North Franklin,07/01/1902,Connecticut
+North Haven,12/15/1900,Connecticut
+Northford,01/01/1902,Connecticut
+Norwalk,12/04/1899,Connecticut
+Norwich,04/01/1901,Connecticut
+Norwichtown,09/02/1901,Connecticut
+Oakdale,02/01/1904,Connecticut
+Orange,07/01/1902,Connecticut
+Plainville,05/01/1902,Connecticut
+Plantsville,07/01/1902,Connecticut
+Portland,08/01/1901,Connecticut
+Putnam,06/01/1901,Connecticut
+Ridgefield,02/01/1901,Connecticut
+Riverside,03/15/1901,Connecticut
+Rockville,05/01/1901,Connecticut
+Roxbury,07/15/1904,Connecticut
+Sandy Hook,02/01/1901,Connecticut
+Seymour,07/01/1902,Connecticut
+Shelton,12/15/1900,Connecticut
+Simsbury,09/01/1903,Connecticut
+Somers,11/01/1904,Connecticut
+South Coventry,01/01/1902,Connecticut
+South Glastonbury,04/15/1904,Connecticut
+South Kent,02/02/1903,Connecticut
+South Manchester,08/01/1902,Connecticut
+South Norwalk,01/15/1901,Connecticut
+Southbury,10/01/1902,Connecticut
+Southington,07/01/1901,Connecticut
+Southport,02/01/1901,Connecticut
+Stamford,03/15/1901,Connecticut
+Stepney Depot,12/15/1901,Connecticut
+Stonington,08/01/1903,Connecticut
+Stratford,12/15/1901,Connecticut
+Suffield,12/15/1900,Connecticut
+Terryville,02/01/1902,Connecticut
+Thomaston,02/02/1903,Connecticut
+Thompsonville,10/15/1904,Connecticut
+Torrington,04/01/1902,Connecticut
+Turnerville,04/01/1902,Connecticut
+Uncasville,08/01/1903,Connecticut
+Unionville,10/01/1901,Connecticut
+Wallingford,08/15/1900,Connecticut
+Warehouse Point,05/02/1904,Connecticut
+Washington,02/02/1903,Connecticut
+Washington Depot,09/15/1903,Connecticut
+Waterbury,12/15/1900,Connecticut
+Waterford,11/01/1904,Connecticut
+Watertown,09/15/1903,Connecticut
+West Cheshire,09/02/1901,Connecticut
+West Cornwall,02/02/1903,Connecticut
+West Hartford,04/16/1900,Connecticut
+West Haven,07/01/1902,Connecticut
+Westport,12/15/1900,Connecticut
+Westville,04/16/1900,Connecticut
+Wethersfield,04/15/1904,Connecticut
+Willimantic,04/16/1900,Connecticut
+Wilton,04/15/1901,Connecticut
+Windsor,01/01/1902,Connecticut
+Winsted,04/01/1902,Connecticut
+Woodbury,03/01/1902,Connecticut
+Yantic,07/01/1902,Connecticut

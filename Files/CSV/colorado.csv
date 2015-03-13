@@ -1,49 +1,49 @@
-Name,Date
-Berthoud,07/16/1900
-Boulder,07/16/1900
-Brighton,02/01/1902
-Broomfield,08/15/1900
-Brush,09/15/1903
-Carbondale,06/15/1904
-Delta,01/01/1904
-Denver,07/02/1900
-Dolores,06/01/1904
-Durango,09/15/1900
-Eaton,09/01/1900
-Edgewater,07/05/1899
-Englewood,07/15/1904
-Fort Collins,09/15/1900
-Fort Lupton,01/01/1904
-Fort Morgan,08/01/1902
-Fruita,04/01/1903
-Golden,08/01/1901
-Granada,07/01/1903
-Grand Junction,02/01/1902
-Greeley,07/16/1900
-Harman,05/01/1903
-Henderson,06/01/1904
-Holly,07/01/1903
-Hotchkiss,09/01/1903
-La Salle ,07/01/1901
-Lajunta,08/15/1900
-Lamar,05/16/1904
-Las Animas,10/01/1900
-Littleton,06/01/1900
-Longmont,08/15/1900
-Loveland,11/10/1896
-Lucerne,04/01/1902
-Manzanola,04/15/1904
-Montclair,10/15/1904
-Montevista,09/15/1900
-Montrose,07/01/1903
-Morrison,07/05/1899
-New Windsor,02/01/1901
-Niwot,04/01/1902
-Olathe,08/01/1904
-Parachute,11/01/1902
-Pine,02/01/1902
-Platteville,11/15/1900
-Prowers,09/15/1904
-Pueblo,02/15/1901
-Rockyford,09/15/1900
-Trinidad,12/01/1903
+Name,Date,State
+Berthoud,07/16/1900,Colorado
+Boulder,07/16/1900,Colorado
+Brighton,02/01/1902,Colorado
+Broomfield,08/15/1900,Colorado
+Brush,09/15/1903,Colorado
+Carbondale,06/15/1904,Colorado
+Delta,01/01/1904,Colorado
+Denver,07/02/1900,Colorado
+Dolores,06/01/1904,Colorado
+Durango,09/15/1900,Colorado
+Eaton,09/01/1900,Colorado
+Edgewater,07/05/1899,Colorado
+Englewood,07/15/1904,Colorado
+Fort Collins,09/15/1900,Colorado
+Fort Lupton,01/01/1904,Colorado
+Fort Morgan,08/01/1902,Colorado
+Fruita,04/01/1903,Colorado
+Golden,08/01/1901,Colorado
+Granada,07/01/1903,Colorado
+Grand Junction,02/01/1902,Colorado
+Greeley,07/16/1900,Colorado
+Harman,05/01/1903,Colorado
+Henderson,06/01/1904,Colorado
+Holly,07/01/1903,Colorado
+Hotchkiss,09/01/1903,Colorado
+La Salle ,07/01/1901,Colorado
+Lajunta,08/15/1900,Colorado
+Lamar,05/16/1904,Colorado
+Las Animas,10/01/1900,Colorado
+Littleton,06/01/1900,Colorado
+Longmont,08/15/1900,Colorado
+Loveland,11/10/1896,Colorado
+Lucerne,04/01/1902,Colorado
+Manzanola,04/15/1904,Colorado
+Montclair,10/15/1904,Colorado
+Montevista,09/15/1900,Colorado
+Montrose,07/01/1903,Colorado
+Morrison,07/05/1899,Colorado
+New Windsor,02/01/1901,Colorado
+Niwot,04/01/1902,Colorado
+Olathe,08/01/1904,Colorado
+Parachute,11/01/1902,Colorado
+Pine,02/01/1902,Colorado
+Platteville,11/15/1900,Colorado
+Prowers,09/15/1904,Colorado
+Pueblo,02/15/1901,Colorado
+Rockyford,09/15/1900,Colorado
+Trinidad,12/01/1903,Colorado

@@ -50,12 +50,12 @@ def convert_state(state):
 		m = re.search("\d", line)
 		if m:
 			ind = m.start()
-			Towns.append({"Name" : line[0:ind], "Date" : line[ind:]})
+			Towns.append({"Name" : line[0:ind], "Date" : line[ind:], "State" : state})
 		else:
 			print "Not found " + line
 
 	#write out csv file
-	writeCSV(Towns, "Files/CSV/" + state.lower() + ".csv", ["Name", "Date"])
+	writeCSV(Towns, "Files/CSV/" + state.replace(" ", "").lower() + ".csv", ["Name", "Date", "State"])
 	print "Finished state"
 
 print __name__

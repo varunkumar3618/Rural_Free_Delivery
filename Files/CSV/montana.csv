@@ -1,13 +1,13 @@
-Name,Date
-Belgrade,01/15/1904
-Billings,02/01/1902
-Bozeman,01/15/1904
-Butte,01/01/1904
-Cascade,12/01/1904
-Columbia Falls,09/15/1903
-Hamilton,10/01/1903
-Kalispell,10/01/1903
-Manhattan,07/15/1904
-Missoula,07/15/1904
-Stevensville,10/01/1903
-Victor,12/15/1904
+Name,Date,State
+Belgrade,01/15/1904,Montana
+Billings,02/01/1902,Montana
+Bozeman,01/15/1904,Montana
+Butte,01/01/1904,Montana
+Cascade,12/01/1904,Montana
+Columbia Falls,09/15/1903,Montana
+Hamilton,10/01/1903,Montana
+Kalispell,10/01/1903,Montana
+Manhattan,07/15/1904,Montana
+Missoula,07/15/1904,Montana
+Stevensville,10/01/1903,Montana
+Victor,12/15/1904,Montana

@@ -1,132 +1,132 @@
-Name,Date
-Acampo,03/01/1901
-Anaheim,09/15/1900
-Arcata,10/01/1902
-Arroyo Grande,07/01/1903
-Auburn,07/01/1901
-Bakersfield,09/15/1903
-Berkeley,08/01/1903
-Berryessa,09/20/1898
-Buenapark,09/15/1903
-Burbank,07/15/1904
-Calistoga,05/16/1904
-Campbell,02/01/1897
-Carpenteria,07/02/1900
-Ceres,11/02/1903
-Chico,04/01/1902
-Chino,03/02/1903
-Colfax,04/01/1903
-Colma,11/01/1902
-Colton,12/01/1902
-Compton,04/01/1902
-Concord,07/01/1903
-Del Ray,03/02/1903
-Dinuba,09/01/1902
-Dos Palos,09/15/1900
-Downey,10/15/1904
-Edenvale,07/05/1899
-Elmhurst,09/01/1903
-Elmonte,08/15/1900
-Escondido,02/01/1901
-Fairoaks,09/01/1903
-Folsom,06/04/1900
-Fort Jones,03/02/1903
-Fowler,07/01/1902
-Fresno,05/01/1900
-Fullerton,08/15/1900
-Galt,07/01/1901
-Gardena,04/01/1904
-Geyserville,10/01/1903
-Gilroy,03/01/1900
-Glenellen,09/01/1904
-Grass Valley,10/01/1903
-Halfmoon Bay,11/01/1900
-Hanford,09/01/1902
-Haywards,07/16/1900
-Healdsburg,03/02/1903
-Highland,07/01/1901
-Hollywood,04/01/1902
-Hynes,02/15/1904
-Kingsburg,07/01/1901
-Lathrop,02/01/1902
-Laton,05/01/1903
-Lemoore,09/01/1903
-Lincoln,07/01/1903
-Lodi,08/15/1900
-Lompoc,04/01/1902
-Longbeach,09/01/1903
-Loomis,08/01/1900
-Lordsburg,09/01/1903
-Los Angeles,04/01/1902
-Los Gatos,09/20/1898
-Madera,02/02/1903
-Martinez,02/01/1902
-Merced,02/02/1903
-Modesta,04/15/1904
-Mokelumne Hill,02/02/1903
-Morganhill,06/04/1900
-Mountain View,07/23/1900
-Napa,04/03/1899
-Nestor,02/15/1904
-Newark,09/01/1903
-Newcastle,07/01/1901
-Newman,02/15/1904
-Niles,09/15/1903
-North Ontario,08/15/1900
-Norwalk,02/01/1902
-Oleander,07/01/1902
-Ontario,08/15/1900
-Orange,09/15/1900
-Oxnard,09/15/1903
-Palms,02/01/1902
-Parlier,03/02/1903
-Pasadena,08/15/1904
-Penryn,08/01/1902
-Petaluma,04/03/1899
-Placerville,08/15/1904
-Pomona,07/05/1899
-Portersville,02/01/1904
-Redlands,12/15/1900
-Redwood City,03/01/1899
-Reedley,10/01/1902
-Rialto,09/01/1903
-Rivera,09/01/1903
-Riverside,04/15/1901
-Sacramento,05/01/1900
-San Bernardino,09/01/1903
-San Diego,07/01/1903
-San Gabriel,04/01/1902
-San Jacinto,09/15/1900
-San Jose,09/02/1898
-San Juan,10/15/1903
-San Leandro,07/01/1903
-San Lorenzo,05/16/1904
-San Marcos,02/01/1902
-San Martin,12/01/1904
-Sanger,02/02/1903
-Santa Ana,09/01/1900
-Santa Barbara,04/03/1899
-Santa Clara,07/01/1901
-Santa Cruz,09/05/1899
-Santa Maria,03/02/1903
-Santa Paula,07/16/1900
-Santa Rosa,02/06/1899
-Saratoga,05/01/1900
-Sebastopol,05/14/1900
-Selma,02/02/1903
-Soledad,06/15/1904
-Sonoma,09/01/1900
-Stockton,09/18/1899
-Suisun City,02/01/1902
-Sunnyvale,07/01/1902
-Toluca,11/02/1903
-Tulare,09/01/1903
-Turlock,05/02/1904
-Vacaville,07/01/1903
-Ventura,11/01/1900
-Visalia,08/01/1902
-Watsonville,06/11/1900
-Westside,03/17/1898
-Whittier,04/01/1904
-Woodland,09/15/1903
-Wrights,09/15/1903
+Name,Date,State
+Acampo,03/01/1901,California
+Anaheim,09/15/1900,California
+Arcata,10/01/1902,California
+Arroyo Grande,07/01/1903,California
+Auburn,07/01/1901,California
+Bakersfield,09/15/1903,California
+Berkeley,08/01/1903,California
+Berryessa,09/20/1898,California
+Buenapark,09/15/1903,California
+Burbank,07/15/1904,California
+Calistoga,05/16/1904,California
+Campbell,02/01/1897,California
+Carpenteria,07/02/1900,California
+Ceres,11/02/1903,California
+Chico,04/01/1902,California
+Chino,03/02/1903,California
+Colfax,04/01/1903,California
+Colma,11/01/1902,California
+Colton,12/01/1902,California
+Compton,04/01/1902,California
+Concord,07/01/1903,California
+Del Ray,03/02/1903,California
+Dinuba,09/01/1902,California
+Dos Palos,09/15/1900,California
+Downey,10/15/1904,California
+Edenvale,07/05/1899,California
+Elmhurst,09/01/1903,California
+Elmonte,08/15/1900,California
+Escondido,02/01/1901,California
+Fairoaks,09/01/1903,California
+Folsom,06/04/1900,California
+Fort Jones,03/02/1903,California
+Fowler,07/01/1902,California
+Fresno,05/01/1900,California
+Fullerton,08/15/1900,California
+Galt,07/01/1901,California
+Gardena,04/01/1904,California
+Geyserville,10/01/1903,California
+Gilroy,03/01/1900,California
+Glenellen,09/01/1904,California
+Grass Valley,10/01/1903,California
+Halfmoon Bay,11/01/1900,California
+Hanford,09/01/1902,California
+Haywards,07/16/1900,California
+Healdsburg,03/02/1903,California
+Highland,07/01/1901,California
+Hollywood,04/01/1902,California
+Hynes,02/15/1904,California
+Kingsburg,07/01/1901,California
+Lathrop,02/01/1902,California
+Laton,05/01/1903,California
+Lemoore,09/01/1903,California
+Lincoln,07/01/1903,California
+Lodi,08/15/1900,California
+Lompoc,04/01/1902,California
+Longbeach,09/01/1903,California
+Loomis,08/01/1900,California
+Lordsburg,09/01/1903,California
+Los Angeles,04/01/1902,California
+Los Gatos,09/20/1898,California
+Madera,02/02/1903,California
+Martinez,02/01/1902,California
+Merced,02/02/1903,California
+Modesta,04/15/1904,California
+Mokelumne Hill,02/02/1903,California
+Morganhill,06/04/1900,California
+Mountain View,07/23/1900,California
+Napa,04/03/1899,California
+Nestor,02/15/1904,California
+Newark,09/01/1903,California
+Newcastle,07/01/1901,California
+Newman,02/15/1904,California
+Niles,09/15/1903,California
+North Ontario,08/15/1900,California
+Norwalk,02/01/1902,California
+Oleander,07/01/1902,California
+Ontario,08/15/1900,California
+Orange,09/15/1900,California
+Oxnard,09/15/1903,California
+Palms,02/01/1902,California
+Parlier,03/02/1903,California
+Pasadena,08/15/1904,California
+Penryn,08/01/1902,California
+Petaluma,04/03/1899,California
+Placerville,08/15/1904,California
+Pomona,07/05/1899,California
+Portersville,02/01/1904,California
+Redlands,12/15/1900,California
+Redwood City,03/01/1899,California
+Reedley,10/01/1902,California
+Rialto,09/01/1903,California
+Rivera,09/01/1903,California
+Riverside,04/15/1901,California
+Sacramento,05/01/1900,California
+San Bernardino,09/01/1903,California
+San Diego,07/01/1903,California
+San Gabriel,04/01/1902,California
+San Jacinto,09/15/1900,California
+San Jose,09/02/1898,California
+San Juan,10/15/1903,California
+San Leandro,07/01/1903,California
+San Lorenzo,05/16/1904,California
+San Marcos,02/01/1902,California
+San Martin,12/01/1904,California
+Sanger,02/02/1903,California
+Santa Ana,09/01/1900,California
+Santa Barbara,04/03/1899,California
+Santa Clara,07/01/1901,California
+Santa Cruz,09/05/1899,California
+Santa Maria,03/02/1903,California
+Santa Paula,07/16/1900,California
+Santa Rosa,02/06/1899,California
+Saratoga,05/01/1900,California
+Sebastopol,05/14/1900,California
+Selma,02/02/1903,California
+Soledad,06/15/1904,California
+Sonoma,09/01/1900,California
+Stockton,09/18/1899,California
+Suisun City,02/01/1902,California
+Sunnyvale,07/01/1902,California
+Toluca,11/02/1903,California
+Tulare,09/01/1903,California
+Turlock,05/02/1904,California
+Vacaville,07/01/1903,California
+Ventura,11/01/1900,California
+Visalia,08/01/1902,California
+Watsonville,06/11/1900,California
+Westside,03/17/1898,California
+Whittier,04/01/1904,California
+Woodland,09/15/1903,California
+Wrights,09/15/1903,California
