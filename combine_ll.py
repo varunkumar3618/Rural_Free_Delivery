@@ -12,8 +12,6 @@ def get_lines_from_state (state):
 	T = []
 	try:
 		T = getLinesCSV ("Files/CSV/" + state.replace(" ", "").lower() + "_ll.csv")
-		for town in Towns:
-			town["State"] = state
 		return T
 	except Exception:
 		print "Failed"
@@ -22,7 +20,9 @@ def get_lines_from_state (state):
 print __name__
 if __name__ == "__main__":
 	Towns = []
-	for state in get_states ():
-		Towns.extend (get_lines_from_state (state))
-
+	states = get_states ()
+	for state in states:
+		T = get_lines_from_state (state)
+		for town in T:
+			Towns.append (town)
 	writeCSV (Towns, "Files/CSV/combined_ll.csv", ["Name", "State", "Date", "Latitude", "Longitude"])

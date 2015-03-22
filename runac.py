@@ -5,7 +5,8 @@ from combined_csv import writeCSV
 
 #list of states
 def get_states():
-	return ['Alabama']
+	return ['Montana']
+	# redo Utah, Virginia, Texas
 	#return ['Alabama', 'Alaska', 'Arizona', 'Arkansas', 'California', 'Colorado', 'Connecticut', 'Delaware', 'District Of Columbia', 'Florida', 'Georgia', 'Hawaii', 'Idaho', 'Illinois', 'Indiana', 'Iowa', 'Kansas', 'Kentucky', 'Louisiana', 'Maine', 'Maryland', 'Massachusetts', 'Michigan', 'Minnesota', 'Mississippi', 'Missouri', 'Montana', 'Nebraska', 'Nevada', 'New Hampshire', 'New Jersey', 'New Mexico', 'New York', 'North Carolina', 'North Dakota', 'Ohio', 'Oklahoma', 'Oregon', 'Pennsylvania', 'Rhode Island', 'South Carolina', 'South Dakota', 'Tennessee', 'Texas', 'Utah', 'Vermont', 'Virginia', 'Washington', 'West Virginia', 'Wisconsin', 'Wyoming']
 
 #gets lines from a file. each line is a dictionary
@@ -27,17 +28,13 @@ def addCoordinates(state):
 		return -1
 	gl = Nominatim()
 	for town in Towns:
-		#get location, repeat if connection fails
-		for a in range(10):
-			try:
-				location = gl.geocode(town["Name"] + ", " + town["State"])
-				break
-			except Exception:
-				print "GeocoderTimedOut"
-				continue
-		else:
-			print "Failed on 10 attempts"
-			return -1
+		print town ["Name"]
+		#get location
+		try:
+			location = gl.geocode(town["Name"] + ", " + town["State"])
+		except Exception:
+			print "GeocoderTimedOut"
+			continue
 		if location:
 			print location.address
 			[town["Latitude"], town["Longitude"]] = [location.latitude, location.longitude]
